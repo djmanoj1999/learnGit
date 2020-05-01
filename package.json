@@ -1,0 +1,19 @@
+{
+  "name": "learngit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/djmanoj1999/learnGit.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/djmanoj1999/learnGit/issues"
+  },
+  "homepage": "https://github.com/djmanoj1999/learnGit#readme"
+}
